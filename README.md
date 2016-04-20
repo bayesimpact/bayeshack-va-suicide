@@ -9,6 +9,4 @@ Veterans are at a 50% higher risk of suicide than the United States national ave
 
 Use openly available data sets (including the surveys and government reports attached here) to create models to better understand and predict suicide among veterans as a foundation for more targeted and proactive care. Additionally, applications for point of care analysis and the development of better predictive classifiers or new methods for data collection can be critical parts of getting veterans the care they need.
 
-## Resources
-
-* Coming soon
+## Data and resources coming soon
